@@ -1,7 +1,6 @@
 applications:
   - name: mynodeappdemo45
     random-route: true
-    path: /home/vcap/app
     buidpack: https://github.com/cloudfoundry/nodejs-buidpack
     host: mynodeappdemo45
     memory: 128M
