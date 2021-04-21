@@ -1,7 +1,7 @@
 applications:
   - name: mynodeappdemo45
     random-route: true
-    path: targer/
+    path: target/
     buidpack: https://github.com/cloudfoundry/nodejs-buidpack
     host: mynodeappdemo45
     memory: 128M
