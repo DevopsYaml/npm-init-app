@@ -1,6 +1,5 @@
 applications:
   - name: mynodeappdemo45
     random-route: true
-    buildpack: https://github.com/cloudfoundry/nodejs-buildpack
     host: mynodeappdemo45
     memory: 128M
